@@ -1,6 +1,6 @@
 # Docker
 
-#linux with sudo 
+#linux comands with sudo 
 
 1)docker-compose up --build -d
 2)docker-compose down
