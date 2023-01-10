@@ -7,7 +7,7 @@
 3)cd app
 4)composer install --ignore-platform-reqs
 5)composer dump-autoload
-6)docker-compose up -d
+6)docker-compose up --build -d
 
 #host
 localhost/
